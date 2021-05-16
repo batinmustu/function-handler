@@ -43,7 +43,7 @@ FunctionHandler::addContainer('tag', array('lower'));
 ```
 
 ## handle(data, container tag)
-The purpose of this method is to save containers with functions by tag.
+The purpose of this method is to handle data by container.
 
 **Example**
 ```php
